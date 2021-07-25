@@ -8,3 +8,4 @@ This is done from develop branch
 # Some Changes from Develop
 
 ### Author: Saikat Narayan Bhattacharjya
+### Email: snbhattacharjya@gmail.com
